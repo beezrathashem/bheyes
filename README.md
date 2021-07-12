@@ -11,7 +11,13 @@ Concepts:
 
 Resources:
 
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
 https://stackoverflow.com/questions/15493965/define-global-css-classes-using-javascript-or-jquery
+
+https://stackoverflow.com/questions/20156453/how-to-detect-element-being-added-removed-from-dom-element
+
+https://stackoverflow.com/questions/20156453/how-to-detect-element-being-added-removed-from-dom-element
 
 https://stackoverflow.com/questions/7657363/changing-global-css-styles-from-javascript
 
