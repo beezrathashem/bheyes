@@ -1,6 +1,14 @@
 # bheyes
 
 
+Concepts:
+
+* Google chrome extension 
+
+* Filtered app
+
+* whats app clone with filtered content
+
 Resources:
 
 https://stackoverflow.com/questions/15493965/define-global-css-classes-using-javascript-or-jquery
