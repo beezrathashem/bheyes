@@ -17,8 +17,6 @@ https://stackoverflow.com/questions/15493965/define-global-css-classes-using-jav
 
 https://stackoverflow.com/questions/20156453/how-to-detect-element-being-added-removed-from-dom-element
 
-https://stackoverflow.com/questions/20156453/how-to-detect-element-being-added-removed-from-dom-element
-
 https://stackoverflow.com/questions/7657363/changing-global-css-styles-from-javascript
 
 https://github.com/react-native-webview/react-native-webview/blob/master/docs/Guide.md#react-native-webview-guide
