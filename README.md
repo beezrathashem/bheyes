@@ -3,6 +3,8 @@
 
 Resources:
 
+https://stackoverflow.com/questions/15493965/define-global-css-classes-using-javascript-or-jquery
+
 https://stackoverflow.com/questions/7657363/changing-global-css-styles-from-javascript
 
 https://github.com/react-native-webview/react-native-webview/blob/master/docs/Guide.md#react-native-webview-guide
