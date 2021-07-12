@@ -58,12 +58,14 @@ for (var i = 0; i < l; i++) {
 }
   }, 100)
 
-  var images = document.getElementsByTagName('img');
-var l = images.length;
-for (var i = 0; i < l; i++) {
-    images[0].parentNode.removeChild(images[0]);
-}
-
+  var style=document.createElement('style');
+  style.type='text/css';
+  if(style.styleSheet){
+      style.styleSheet.cssText='your css styles';
+  }else{
+      style.appendChild(document.createTextNode('your css styles'));
+  }
+  document.getElementsByTagName('head')[0].appendChild(style);
 
 setInterval(() => {
 
